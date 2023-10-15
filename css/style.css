@@ -505,7 +505,7 @@ a{
 	left: 0px;
 	right: 0px;
 	background-repeat: no-repeat;
-	background-position:center;
+	background-position:center top;
 	background-size: cover;
 	animation: morph 8s ease-in-out infinite 1s;
 	background-blend-mode: multiply;
